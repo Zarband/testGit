@@ -3,3 +3,7 @@ Nimalar qilish kerak
 1. Programmani yuklash kerak
 2. SCADA for Machines. IoT of energy meters.
 3. Check all things
+4. Open the project
+5. Test it 
+6. Copy all nessary files and folder into another PC
+7. Check there
