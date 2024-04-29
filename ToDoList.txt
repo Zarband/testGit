@@ -1,0 +1,5 @@
+Nimalar qilish kerak
+
+1. Programmani yuklash kerak
+2. SCADA for Machines. IoT of energy meters.
+3. Check all things
