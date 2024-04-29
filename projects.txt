@@ -2,3 +2,5 @@
 2. TOS
 3. IoT
 4. Git
+5. Front-End Programming
+6. Java Script
