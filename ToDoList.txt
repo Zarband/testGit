@@ -7,3 +7,4 @@ Nimalar qilish kerak
 5. Test it 
 6. Copy all nessary files and folder into another PC
 7. Check there
+8. Test all case 
