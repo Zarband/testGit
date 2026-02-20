@@ -8,3 +8,5 @@ Nimalar qilish kerak
 6. Copy all nessary files and folder into another PC
 7. Check there
 8. Check for new Branch
+
+Hamma narslar yaxshi tuzildi.
